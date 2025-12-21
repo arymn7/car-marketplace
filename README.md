@@ -1,2 +1,9 @@
-# car-marketplace
-Terminal-based car marketplace built in Java, supporting vehicle listings, search, and buy/sell workflows.
+# Car Marketplace
+A terminal-based Java application that allows users to list, search, buy, and sell vehicles through a text-based interface. Built with object-oriented design.
+## Features
+- Vehicle listings and search
+- Buy/sell workflows via terminal menus
+- Modular and maintainable codebase
+## Tech Stack
+- Java
+- Git
